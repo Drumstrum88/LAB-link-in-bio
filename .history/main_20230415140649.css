@@ -43,13 +43,3 @@ div {
  justify-content: center;
  margin-bottom: 40px;
 }
-
-.text-center {
-  font-family: Arial, Helvetica, sans-serif;
-  color:plum;
-}
-
-.text-center:hover {
-  color: lavenderblush;
-}
-

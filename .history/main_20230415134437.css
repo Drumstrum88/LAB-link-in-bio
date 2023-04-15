@@ -6,7 +6,7 @@ body {
   margin: 10px;
   color: whitesmoke;
   background-color: slategray;
-  border-color: black;
+  border-color: darkblue;
   width: 400px;
   
   
@@ -14,8 +14,7 @@ body {
 }
 
 .btn:hover {
-  background-color: black;
-  color: paleturquoise;
+  color: coral
   
 }
 
@@ -23,7 +22,7 @@ body {
   
 }
 
-  .rounded {
+  img {
   max-width: 200px;
   max-height: 200px;
   border-radius: 50%;
@@ -35,21 +34,3 @@ body {
 div {
   justify-content: center;
 }
-
-.logo {
- margin-left: auto;
- margin-right: auto;
- display: flex;
- justify-content: center;
- margin-bottom: 40px;
-}
-
-.text-center {
-  font-family: Arial, Helvetica, sans-serif;
-  color:plum;
-}
-
-.text-center:hover {
-  color: lavenderblush;
-}
-

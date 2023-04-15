@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+
+.btn {
+  margin: 10px;
+  color: whitesmoke;
+  background-color: slategray;
+  border-color: darkblue;
+  hover
+
+}
+
+.d-grid {
+  
+}
+
+  img {
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 50%;
+  margin-top: 80px;
+  margin-bottom: 30px;
+
+
+}

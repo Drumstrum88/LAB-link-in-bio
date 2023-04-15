@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+
+.btn {
+  display: flex;
+  margin: 10px;
+
+}

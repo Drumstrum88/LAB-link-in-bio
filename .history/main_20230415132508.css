@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+
+.btn {
+  
+  margin: 10px;
+
+}
+
+.d-grid {
+  
+}
+
+  img {
+    display: inline-block;
+  width: 200px;
+  height: 200px
+  border-style: hidden;
+  margin-top: 80px;
+  margin-bottom: 30px;
+
+
+}

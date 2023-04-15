@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+.btn {
+  
+  margin: 10px;
+
+}
+
+.d-grid {
+  align-content:space-around;
+}
